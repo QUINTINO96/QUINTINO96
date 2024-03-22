@@ -10,7 +10,6 @@
 ## Languages and Tools:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quintino96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quintino96&layout=complete&langs_count=7&theme=dark&count_private=true"/>
 </div>
 
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
